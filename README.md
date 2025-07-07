@@ -30,7 +30,7 @@ cd kitabot
 npm install
 ```
 
-### Example `config.yml`
+### Config
 
 ```yaml
 token: "DISCORD_BOT_TOKEN"
